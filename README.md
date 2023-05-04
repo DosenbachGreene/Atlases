@@ -1,2 +1,4 @@
 # Atlases
-Atlases for Parcellations
+
+Segmentation/Parcellations/Labels
+
